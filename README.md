@@ -1,0 +1,1 @@
+![Simulator Screenshot - iPhone 15 - 2024-03-19 at 23 29 12](https://github.com/jianghat/YLDotPasswordView/assets/3273451/1906c33c-56cf-4552-9274-1d733f63e984)![Simulator Screenshot - iPhone 15 - 2024-03-19 at 23 29 20](https://github.com/jianghat/YLDotPasswordView/assets/3273451/7a1a8468-05d8-4acc-ad26-514050f88fad)
